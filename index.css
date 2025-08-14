@@ -10,3 +10,7 @@ body {
       color: white;
       text-align: center;
     }
+
+    .container {
+      max-width: 600px;
+    }
