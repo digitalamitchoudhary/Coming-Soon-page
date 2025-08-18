@@ -29,3 +29,36 @@ body {
       gap: 15px;
       margin-bottom: 20px;
     }
+    .time-box {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 15px;
+      border-radius: 10px;
+      min-width: 70px;
+    }
+    .time-box h2 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .time-box span {
+      font-size: 0.8rem;
+      color: #ddd;
+    }
+    input {
+      padding: 10px;
+      border-radius: 8px;
+      border: none;
+      width: 70%;
+      margin-right: 5px;
+    }
+    button {
+      padding: 10px 15px;
+      border-radius: 8px;
+      border: none;
+      background: #ff9800;
+      color: white;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    button:hover {
+      background: #e68900;
+    }
